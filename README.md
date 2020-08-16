@@ -1,2 +1,2 @@
 # gerenciador-de-livros
-Aplicativo desenvolvido no curso FIC de Dispositivos Móveis.
+CRUD desenvolvido no curso FIC do IMD de Dispositivos Móveis.
